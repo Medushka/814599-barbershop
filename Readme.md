@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Виктор Продеус](https://up.htmlacademy.ru/htmlcss/23/user/814599).
+* Студент: [Олег Медушевский](https://up.htmlacademy.ru/htmlcss/23/user/814599).
 * Наставник: [Дмитрий Вашкевич](https://htmlacademy.ru/profile/id116959).
 ---
 
